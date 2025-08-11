@@ -1,4 +1,4 @@
-class YPSH < Formula
+class Ypsh < Formula
   desc "A programming language with a simple and intuitive syntax"
   homepage "https://github.com/YPSH-DGC/YPSH"
   version "6.4"
